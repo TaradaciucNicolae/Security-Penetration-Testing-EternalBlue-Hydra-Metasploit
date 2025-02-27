@@ -1,4 +1,4 @@
-# SPenetration, Testing, EternalBlue, Hydra, Metasploit
+# Penetration, Testing, EternalBlue, Hydra, Metasploit
 
 Practical Security Penetration Testing: Attack and Detection
 
