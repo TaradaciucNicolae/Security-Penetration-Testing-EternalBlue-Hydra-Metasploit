@@ -1,13 +1,21 @@
-# Penetration, Testing, EternalBlue, Hydra, Metasploit
+# Security Penetration Testing - Hydra, EternalBlue & Suricata
 
-Practical Security Penetration Testing: Attack and Detection
+Small educational cybersecurity project focused on practical penetration testing and defensive monitoring in a controlled lab environment.
 
-This repository presents a hands-on security analysis demonstrating penetration testing techniques using Hydra, Metasploit, and Suricata. 
+The project documents three main areas:
 
-It covers:
+- brute-force testing with Hydra;
+- EternalBlue exploitation analysis with Metasploit;
+- traffic monitoring and attack detection with Suricata.
 
-    Brute-force attacks with Hydra
-    Exploitation of EternalBlue using Metasploit
-    Threat detection and monitoring with Suricata
+The goal is to understand both sides of a security assessment: how common attacks work in a lab and how they can be detected from a defensive perspective.
 
-This project bridges both offensive and defensive cybersecurity approaches, illustrating how attacks are executed and detected in a real-world scenario.
+## Documentation
+
+The full project write-up is available here:
+
+[Project Report](Proiect%20-%20Taradaciuc%20Nicolae.pdf)
+
+## Ethical Notice
+
+This material is intended only for educational use and authorized lab testing. Do not use these techniques on systems you do not own or do not have explicit permission to test.
