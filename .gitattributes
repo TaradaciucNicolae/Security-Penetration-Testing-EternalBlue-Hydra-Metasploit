@@ -1,0 +1,3 @@
+# Count the overview metadata file as Shell
+project_overview.sh linguist-detectable=true
+project_overview.sh linguist-language=Shell
