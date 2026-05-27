@@ -19,4 +19,3 @@ The full project write-up is available here:
 ## Ethical Notice
 
 This material is intended only for educational use and authorized lab testing. Do not use these techniques on systems you do not own or do not have explicit permission to test.
-
